@@ -1,3 +1,1 @@
-#!/bin/bash
-emacs up_to_date
-
+touch up_to_date
